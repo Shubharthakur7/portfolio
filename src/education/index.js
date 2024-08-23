@@ -21,7 +21,7 @@ const Education = () => {
       <Paper elevation={3} sx={{ p: 3, mb: 2 }}>
         <Typography variant="h6">B.Tech in Mechanical Engineering</Typography>
         <Typography variant="body2" color="text.secondary">
-          Dr. K N Modi Institute Of Engg. & Technology, AKTU | 2013-2017
+          Dr. K N Modi Institute Of Engg. & Technology, AKTU
         </Typography>
       </Paper>
     </Box>
